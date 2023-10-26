@@ -1,0 +1,76 @@
+
+
+local args = {
+    [1] = "f1r1",
+    [2] = {
+        ["Level"] = 1
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("rudolph101_voting-system@0.1.11"):WaitForChild("voting-system"):WaitForChild("__comm__"):WaitForChild("RE"):WaitForChild("Vote"):FireServer(unpack(args))
+
+
+local args = {
+    [1] = "Ready"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_voting-system@0.1.11"):WaitForChild("voting-system"):WaitForChild("__comm__"):WaitForChild("RE"):WaitForChild("Vote"):FireServer(unpack(args))
+
+
+local args = {
+    [1] = "SpecSoldierBloodLust2",
+    [2] = Vector3.new(129.89999389648438, 193.8000030517578, 34.70000076293945)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+local args = {
+    [1] = "SpecSoldierBloodLust2",
+    [2] = Vector3.new(126.0999984741211, 193.8000030517578, 37.70000076293945)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "SpecSoldierBloodLust2",
+    [2] = Vector3.new(131.10000610351562, 193.8000030517578, 19.600000381469727)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "KittyDarkVision",
+    [2] = Vector3.new(137, 193.8000030517578, 11.800000190734863)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "KittyDarkVision",
+    [2] = Vector3.new(124.5, 193.8000030517578, 33.599998474121094)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "KittyDarkVision",
+    [2] = Vector3.new(142.60000610351562, 193.8000030517578, 35.20000076293945)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "KittyDarkVision",
+    [2] = Vector3.new(142.39999389648438, 193.8000030517578, 31.5)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Index"):WaitForChild("rudolph101_tower-defence-towers@0.1.73"):WaitForChild("tower-defence-towers"):WaitForChild("Shared"):WaitForChild("TowerPlacement"):WaitForChild("__comm__"):WaitForChild("RF"):WaitForChild("deploy"):InvokeServer(unpack(args))
+
+game:GetService("ReplicatedStorage"):WaitForChild("SharedModules"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("GameOverOptionsService"):WaitForChild("RF"):WaitForChild("voteAgain"):InvokeServer()
+
+

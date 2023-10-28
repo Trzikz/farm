@@ -1,0 +1,24 @@
+
+while wait farm
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trzikz/farm/main/while%20wait%20farm"))()
+
+
+fps booster
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trzikz/farm/main/fps%20booster"))()
+
+
+anti afk
+
+repeat wait() until game:IsLoaded()
+    game:GetService("Players").LocalPlayer.Idled:connect(function()
+    game:GetService("VirtualUser"):ClickButton2(Vector2.new())
+end)
+
+auto reward
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trzikz/farm/main/clam%20all%20reward"))()
+

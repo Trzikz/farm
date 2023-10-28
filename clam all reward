@@ -1,0 +1,3 @@
+for i = 1, 15
+game:GetService("ReplicatedStorage"):WaitForChild("SharedModules"):WaitForChild("Knit"):WaitForChild("Services"):WaitForChild("PlayTimeRewardService"):WaitForChild("RF"):WaitForChild("claim"):InvokeServer(i)
+end
